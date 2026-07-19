@@ -3,3 +3,4 @@
 Public legal documents for Tailor Hill Consulting AB apps.
 
 - [QUADRA Privacy Policy / Integritetspolicy](https://tailorhill.github.io/legal/privacy-policy.html)
+- [QUADRA Support](https://tailorhill.github.io/legal/support.html)
